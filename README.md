@@ -2,9 +2,7 @@
 
 Meu nome é Eduardo Perezzani 🍪🍪
 
-Estou estudando no Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilzo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+Estou estudando no Alura, estou me desenvolvendo na linguagem java script e vou utilizar esse espaço para compartilhar meus projetos. E nois ♦️
 
 Você pode entrar em contato comigo 🔥
 00001109761223sp@al.educacao.sp.gov.br
